@@ -1,3 +1,3 @@
-# Project-2 : Natural Language Processing Project
+# Project-2 : Computer Vision Project
 
- In this project we have to predict whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
+In this project, I learned how to work with images in Python by using the computer vision library open cv.
